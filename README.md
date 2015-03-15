@@ -1,4 +1,4 @@
-# surrounded
+# Surrounded
 The Surrounded class lets a developer extract a portion of text from a longer string. The extracted portion is based on the number of words surrounding a particular character. The output is similar to the results returned by Google: a snippet of text centered around a particular word. This class has one public method:
 
 ```
